@@ -1,0 +1,15 @@
+.topline {
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-weight: 700;
+}
+
+.middleline {
+    background-color: green;
+    color: white;
+}
+
+.bottomline {
+    background-color: orange;
+}
